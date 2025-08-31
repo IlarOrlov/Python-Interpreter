@@ -4,7 +4,7 @@
 #include <iostream>
 
 #define WELCOME "Welcome to Magshimim Python Interperter version 1.0 by "
-#define YOUR_NAME "Lior Gleizer"
+#define YOUR_NAME "Ilar Orlov"
 
 
 int main(int argc,char **argv)
